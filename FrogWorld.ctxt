@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FrogWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FrogWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=FrogWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FrogWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ placeCar()
+comment4.params=
+comment4.target=void\ placeBus()
+comment5.params=
+comment5.target=void\ countTime()
+comment6.params=
+comment6.target=void\ showTime()
+comment7.params=
+comment7.target=void\ showEndMessage()
+numComments=8
